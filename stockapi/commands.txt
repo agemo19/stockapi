@@ -1,0 +1,26 @@
+npx create-react-app blogapi .
+cd blogapi
+npm start
+npm run build
+npm install react-router-dom
+npm install @material-ui/core
+npm install @material-ui/icons
+npm install redux react-redux redux-devtools-extension
+npm install redux-thunk
+npm install axios
+npm install redux-logger
+npm install redux-devtools-extension
+npm install react-select
+npm install react-virtualized
+npm install react-masonry-css
+rafc - funcomp
+
+
+pip install django-cors-headers
+Info:
+Strict Mode
+StrictMode is a tool for highlighting potential problems in an application. Like Fragment , StrictMode does not render. React StrictMode is a feature added in version 16.3 and aimed to help us in finding potential problems in an application.
+
+
+
+
